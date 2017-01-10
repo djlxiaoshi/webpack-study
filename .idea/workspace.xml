@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fc86ee-36fe-47f3-98b7-e8f2ba70310c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webpack-study.iml" afterPath="$PROJECT_DIR$/.idea/webpack-study.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/webpack 使用.md" afterPath="$PROJECT_DIR$/note/webpack 使用.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -75,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node&amp;express.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Node&amp;express.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../sell/src/note/Node&amp;express.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -85,6 +83,51 @@
                   <marker date="1483947777352" expanded="true" signature="277:322" ph="{...}" />
                   <marker date="1483947777352" expanded="true" signature="395:524" ph="{...}" />
                   <marker date="1483947777352" expanded="true" signature="410:458" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack 使用.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/note/webpack 使用.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="429">
+                <caret line="274" column="13" lean-forward="false" selection-start-line="274" selection-start-column="13" selection-end-line="274" selection-end-column="13" />
+                <folding>
+                  <marker date="1484015037811" expanded="true" signature="415:571" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="429:569" ph="[...]" />
+                  <marker date="1484015037811" expanded="true" signature="466:567" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="495:552" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="805:1012" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="867:932" ph="{&quot;filename&quot;: &quot;bundle.js&quot;...}" />
+                  <marker date="1484015037811" expanded="true" signature="945:1010" ph="[...]" />
+                  <marker date="1484015037811" expanded="true" signature="1282:1321" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="1283:1319" ph="//..." />
+                  <marker date="1484015037811" expanded="true" signature="1424:1439" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="1452:1654" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="1467:1652" ph="{&quot;start&quot;: &quot;NODE_ENV=dev webpack-dev-server --progress --colors --hot --inline --d&quot;...}" />
+                  <marker date="1484015037811" expanded="false" signature="1665:1726" ph="//..." />
+                  <marker date="1484015037811" expanded="true" signature="1771:1932" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="1953:2047" ph="{&quot;entry&quot;: './main.js'...}" />
+                  <marker date="1484015037811" expanded="true" signature="1987:2018" ph="{&quot;filename&quot;: 'bundle.js'...}" />
+                  <marker date="1484015037811" expanded="true" signature="2524:2621" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="2543:2619" ph="[...]" />
+                  <marker date="1484015037811" expanded="true" signature="2544:2618" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="2718:2880" ph="[...]" />
+                  <marker date="1484015037811" expanded="true" signature="3056:3215" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="3069:3213" ph="[...]" />
+                  <marker date="1484015037811" expanded="true" signature="3075:3209" ph="{&quot;loader&quot;: 'babel'...}" />
+                  <marker date="1484015037811" expanded="true" signature="3166:3203" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="3238:3388" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="3252:3384" ph="[...]" />
+                  <marker date="1484015037811" expanded="true" signature="3260:3377" ph="{&quot;loader&quot;: 'babel-loader?presets[]=es2015'...}" />
+                  <marker date="1484015037811" expanded="true" signature="4079:4237" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="4509:4685" ph="{...}" />
+                  <marker date="1484015037811" expanded="true" signature="4520:4576" ph="{&quot;Profile&quot;: './profile.js'...}" />
+                  <marker date="1484015037811" expanded="true" signature="4588:4655" ph="{&quot;path&quot;: 'build'...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -198,7 +241,6 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/admin/admin.js" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
-        <option value="$PROJECT_DIR$/note/webpack 使用.md" />
         <option value="$PROJECT_DIR$/../sell/build/dev-server.js" />
         <option value="$PROJECT_DIR$/../sell/src/note/整体项目架构分析.md" />
         <option value="$PROJECT_DIR$/../sell/src/components/food/food.vue" />
@@ -207,6 +249,7 @@
         <option value="$PROJECT_DIR$/../sell/start.js" />
         <option value="$PROJECT_DIR$/../sell/prod.server.js" />
         <option value="$PROJECT_DIR$/../sell/src/note/Node&amp;express.md" />
+        <option value="$PROJECT_DIR$/note/webpack 使用.md" />
       </list>
     </option>
   </component>
@@ -333,18 +376,8 @@
               <option name="myItemId" value="webpack-study" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="webpack-study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sell" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -358,29 +391,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sell" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="webpack-study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack-study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sell" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -396,14 +407,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="webpack-study" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sell" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -515,6 +518,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="64fc86ee-36fe-47f3-98b7-e8f2ba70310c" name="Default" comment="" />
@@ -526,15 +532,15 @@
       <workItem from="1483926837097" duration="6996000" />
       <workItem from="1483941311725" duration="6205000" />
       <workItem from="1484009988630" duration="599000" />
-      <workItem from="1484011067764" duration="599000" />
+      <workItem from="1484011067764" duration="665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28655000" />
+    <option name="totallyTimeSpent" value="28721000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25988287" sideWeight="0.49369085" order="0" side_tool="false" content_ui="combo" />
@@ -771,16 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note/webpack 使用.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="4563">
-            <caret line="169" column="7" lean-forward="false" selection-start-line="169" selection-start-column="7" selection-end-line="169" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -972,6 +968,49 @@
         <state relative-caret-position="2403">
           <caret line="89" column="47" lean-forward="false" selection-start-line="89" selection-start-column="47" selection-end-line="89" selection-end-column="47" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/webpack 使用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="429">
+            <caret line="274" column="13" lean-forward="false" selection-start-line="274" selection-start-column="13" selection-end-line="274" selection-end-column="13" />
+            <folding>
+              <marker date="1484015037811" expanded="true" signature="415:571" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="429:569" ph="[...]" />
+              <marker date="1484015037811" expanded="true" signature="466:567" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="495:552" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="805:1012" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="867:932" ph="{&quot;filename&quot;: &quot;bundle.js&quot;...}" />
+              <marker date="1484015037811" expanded="true" signature="945:1010" ph="[...]" />
+              <marker date="1484015037811" expanded="true" signature="1282:1321" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="1283:1319" ph="//..." />
+              <marker date="1484015037811" expanded="true" signature="1424:1439" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="1452:1654" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="1467:1652" ph="{&quot;start&quot;: &quot;NODE_ENV=dev webpack-dev-server --progress --colors --hot --inline --d&quot;...}" />
+              <marker date="1484015037811" expanded="false" signature="1665:1726" ph="//..." />
+              <marker date="1484015037811" expanded="true" signature="1771:1932" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="1953:2047" ph="{&quot;entry&quot;: './main.js'...}" />
+              <marker date="1484015037811" expanded="true" signature="1987:2018" ph="{&quot;filename&quot;: 'bundle.js'...}" />
+              <marker date="1484015037811" expanded="true" signature="2524:2621" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="2543:2619" ph="[...]" />
+              <marker date="1484015037811" expanded="true" signature="2544:2618" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="2718:2880" ph="[...]" />
+              <marker date="1484015037811" expanded="true" signature="3056:3215" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="3069:3213" ph="[...]" />
+              <marker date="1484015037811" expanded="true" signature="3075:3209" ph="{&quot;loader&quot;: 'babel'...}" />
+              <marker date="1484015037811" expanded="true" signature="3166:3203" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="3238:3388" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="3252:3384" ph="[...]" />
+              <marker date="1484015037811" expanded="true" signature="3260:3377" ph="{&quot;loader&quot;: 'babel-loader?presets[]=es2015'...}" />
+              <marker date="1484015037811" expanded="true" signature="4079:4237" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="4509:4685" ph="{...}" />
+              <marker date="1484015037811" expanded="true" signature="4520:4576" ph="{&quot;Profile&quot;: './profile.js'...}" />
+              <marker date="1484015037811" expanded="true" signature="4588:4655" ph="{&quot;path&quot;: 'build'...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

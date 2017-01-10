@@ -269,6 +269,9 @@ module.exports = {
 
 #不错的webpack资料
 [webpack-howto](https://github.com/petehunt/webpack-howto/blob/master/README-zh.md)
-[视频](http://www.maiziedu.com/course/570/)
-[](https://segmentfault.com/a/1190000008032524)
+
+[视频资料](http://www.maiziedu.com/course/570/)
+
+[webpack 入门实战](https://segmentfault.com/a/1190000008032524)
+
 [阮一峰老师webpack](https://github.com/ruanyf/webpack-demos)
