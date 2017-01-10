@@ -6,6 +6,8 @@
 
 在安装  webpack-dev-server 这是一个webpack提供的静态开发环境服务器，用来开发调试
 
+另外如果是在开发环境中用到的包我们使用`--save-dev`的参数，如果生产环境用到的如jQuery，我们直接只用`save`参数
+
 ##配置文件
 使用webpack最重要的就是配置文件`webpack.config.js`，和gulp等等工具一样都有一个配置文件
 
@@ -161,7 +163,12 @@ module: {
     ]
   }
 ```
+*NOTE:The query string is appended to the loader with ?. i.e. url-loader?mimetype=image/png.*
 
+当然也可以配置一个.babelrc的配置文件
+```json
+ { "presets": [ "es2015" ] }
+```
 ### 启动
 我们可以直接通过webpack-dev-server（前提是全局安装）命令直接在命令窗口中启动，也可以通过设置package.json
 一个启动项，例如：`"start": "webpack-dev-server --progress --colors --hot --inline"`这里就不需要webpack-dev-server
